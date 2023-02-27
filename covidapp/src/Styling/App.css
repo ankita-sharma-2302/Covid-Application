@@ -1,0 +1,25 @@
+
+.App{
+	text-align: center;
+}
+.card {
+	padding: 20px;
+	box-sizing: border-box;
+	box-sizing: content-box;
+	border: 1px solid white;
+}
+.app{
+	display: flex;
+	justify-content: center;
+	padding: 2px;
+	
+}
+.totalcases{
+	border-bottom: 10px solid rgba(0, 0, 255,0.5);
+}
+.recovered{
+	border-bottom: 10px solid rgba(0, 255, 0,0.5);
+}
+.deaths{
+	border-bottom: 10px solid rgba(255, 0, 0,0.5);
+}
